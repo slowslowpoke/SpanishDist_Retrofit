@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SpanishDist</string>
+    <string name="entry_not_found">Entry not found</string>
 </resources>
